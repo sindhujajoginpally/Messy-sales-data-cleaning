@@ -1,0 +1,14 @@
+OrderID,Customer Name,Product,Quantity,Price,Order Date,City
+101,Riya Sharma,Laptop,1,55000,2026-01-05,Hyderabad
+102,amit patel ,mouse,2,800,2026/01/06,Mumbai
+103,Sneha Rao,Keyboard,1,1500,2026-01-07,Bangalore
+104,Vikram Singh,Monitor,3,12000,2026-01-07,Delhi
+105,Riya Sharma,Laptop,1,55000,2026-01-09,Hyderabad
+106,Neha Gupta,Headphones,1,2500,2026-01-10,Chennai
+107,  Karan Mehta,MOUSE,2,800,2026-01-10,Mumbai
+108,Pooja Iyer,Webcam,,3200,2026-01-11,Pune
+109,amit patel,Mouse,2,800,2026-01-12,Mumbai
+110,Divya Nair,Laptop,1,55000,2026-01-13,Kolkata
+110,Divya Nair,Laptop,1,55000,2026-01-13,Kolkata
+111,,Speaker,1,1800,2026-01-14,Delhi
+112,Arjun Kumar,Monitor,2,12000,2026-01-15,Delhi
